@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Projeto Pós Urna Eletrônico</string>
+    <string name="name_bolsonaro">Jair Bolsonaro</string>
+    <string name="name_haddad">Fernando Haddad</string>
+    <string name="nulo_branco">Nulo/Branco</string>
+    <string name="vote">Votar</string>
+    <string name="choose_your_candidate">Escolha seu candidato</string>
+    <string name="err_choose_your_candidate">Selecione um candidato para votar!</string>
+    <string name="vote_bolsonaro">Você votou em Jair Bolsonaro!</string>
+    <string name="vote_haddad">Você votou em Fernando Haddad!</string>
+    <string name="vote_nulo_branco">Você votou nulo/branco!</string>
+</resources>
